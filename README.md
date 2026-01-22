@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mingqiao Liu
 
-<!--
-**moumq/moumq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student Researcher in Large Language Models
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=liu-mq&label=Profile%20views&color=0e75b6&style=flat" alt="liu-mq" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on research related to **large language models**, with a focus on **hallucination detection and model internal representations**.
+
+- 📫 How to reach me: **liu-mq22@mails.tsinghua.edu.cn**
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="https://github.com/liu-mq" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+         alt="liu-mq"
+         height="30"
+         width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+  <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+  </a>
+</p>
